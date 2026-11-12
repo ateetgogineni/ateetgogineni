@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:a78bfa&height=180&section=header&text=Venkata%20Ateet%20Gogineni&fontSize=40&fontColor=0d1117&fontAlignY=36&desc=C%23%20Software%20Engineer%20%C2%B7%20AI-first%20Developer&descSize=17&descAlignY=58&descColor=0d1117" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=C%23+Software+Engineer+%40+PurpleTalk%2C+Hyderabad;Building+AI-first+with+Claude+Code%2C+Codex+%26+Antigravity;Shipping+games+to+Google+Play+%26+the+App+Store;Now+learning+ASP.NET+Core+%2B+SQL+Server" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=C%23+Software+Engineer+%40+PurpleTalk%2C+Hyderabad;AI-first+with+Claude+Code%2C+Codex+%26+Antigravity;Shipping+games+to+Google+Play+%26+the+App+Store;Now+learning+ASP.NET+Core+%2B+SQL+Server" alt="Typing intro"/>
 </p>
 
 <p align="center">
