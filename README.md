@@ -47,8 +47,6 @@ public class VenkataAteet : SoftwareEngineer
 | 🃏 [UNO 1v1](https://github.com/ateetgogineni/uno-game) | 1v1 card game for Android with WebSocket matchmaking and a bot fallback | Unity 6 · C# |
 | 🦋 [Glowmoth](https://github.com/ateetgogineni/glowmoth) | Level-based 2D puzzle: tap a lamp and the moth follows the light it can see | Unity · C# |
 | 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) · [▶ Live](https://ateetgogineni.github.io/ramayanam-game/) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |
-| 📡 [Network Dashboard](https://github.com/ateetgogineni/Network-Dashboard) | Local network dashboard: live device discovery, internet speed gauge and per-device traffic view | JavaScript · PowerShell |
-
 ## 🎮 Shipped at work
 
 Built end to end at PurpleTalk for YesGnome — core gameplay, meta-game layer and game art:
