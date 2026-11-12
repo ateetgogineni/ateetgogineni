@@ -46,9 +46,7 @@ public class VenkataAteet : SoftwareEngineer
 | 🧭 [WorthIt](https://github.com/ateetgogineni/worthit-dashboard) · [▶ Live](https://ateetgogineni.github.io/worthit-dashboard/) | Offline-first dashboard that ranks in-demand tools by a personal Worth-It score, with a 7-day action plan | HTML · CSS · JS · PWA |
 | 🃏 [UNO 1v1](https://github.com/ateetgogineni/uno-game) | 1v1 card game for Android with WebSocket matchmaking and a bot fallback | Unity 6 · C# |
 | 🦋 [Glowmoth](https://github.com/ateetgogineni/glowmoth) | Level-based 2D puzzle: tap a lamp and the moth follows the light it can see | Unity · C# |
-| 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) · [▶ Live](https://ateetgogineni.github.io/ramayanam-game/) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |
-| 🌐 [Portfolio website](https://github.com/ateetgogineni/ateetgogineni.github.io) · [▶ Live](https://ateetgogineni.github.io) | My personal site: projects, skills and contact | HTML · CSS · JavaScript |
-## 🎮 Shipped at work
+| 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) · [▶ Live](https://ateetgogineni.github.io/ramayanam-game/) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |## 🎮 Shipped at work
 
 Built end to end at PurpleTalk for YesGnome — core gameplay, meta-game layer and game art:
 
