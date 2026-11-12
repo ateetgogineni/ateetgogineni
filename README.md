@@ -43,10 +43,10 @@ public class VenkataAteet : SoftwareEngineer
 | Project | What it does | Stack |
 |---|---|---|
 | 📈 [AI Stock Research Platform](https://github.com/ateetgogineni/Stock_Market) | Source-backed reports for NSE companies: Company, Financial, Technical and News agents run in parallel with a bull-vs-bear debate, citation checks and replayable snapshots | Python · FastAPI · Next.js · TypeScript · Claude & Gemini |
-| 🧭 [WorthIt](https://github.com/ateetgogineni/worthit-dashboard) | Offline-first dashboard that ranks in-demand tools by a personal Worth-It score, with a 7-day action plan | HTML · CSS · JS · PWA |
+| 🧭 [WorthIt](https://github.com/ateetgogineni/worthit-dashboard) · [▶ Live](https://ateetgogineni.github.io/worthit-dashboard/) | Offline-first dashboard that ranks in-demand tools by a personal Worth-It score, with a 7-day action plan | HTML · CSS · JS · PWA |
 | 🃏 [UNO 1v1](https://github.com/ateetgogineni/uno-game) | 1v1 card game for Android with WebSocket matchmaking and a bot fallback | Unity 6 · C# |
 | 🦋 [Glowmoth](https://github.com/ateetgogineni/glowmoth) | Level-based 2D puzzle: tap a lamp and the moth follows the light it can see | Unity · C# |
-| 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |
+| 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) · [▶ Live](https://ateetgogineni.github.io/ramayanam-game/) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |
 | 📡 [Network Dashboard](https://github.com/ateetgogineni/Network-Dashboard) | Local network dashboard: live device discovery, internet speed gauge and per-device traffic view | JavaScript · PowerShell |
 
 ## 🎮 Shipped at work
