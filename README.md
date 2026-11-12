@@ -64,11 +64,7 @@ Earlier: Clash, GamePe, Slot Stream, Rummy, Blackjack, Big Brother: The Game, Bi
 
 ## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ateetgogineni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateetgogineni&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ateetgogineni&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 </p>
 
