@@ -44,10 +44,10 @@ public class VenkataAteet : SoftwareEngineer
 |---|---|---|
 | 📈 [AI Stock Research Platform](https://github.com/ateetgogineni/Stock_Market) | Source-backed reports for NSE companies: Company, Financial, Technical and News agents run in parallel with a bull-vs-bear debate, citation checks and replayable snapshots | Python · FastAPI · Next.js · TypeScript · Claude & Gemini |
 | 🧭 [WorthIt](https://github.com/ateetgogineni/worthit-dashboard) | Offline-first dashboard that ranks in-demand tools by a personal Worth-It score, with a 7-day action plan | HTML · CSS · JS · PWA |
-| 🪔 [Vedic Pooja Guru](https://github.com/ateetgogineni/Vedic-Pooja-Guru) | AI pooja assistant: step-by-step rituals, item quantities by headcount, hands-free voice guidance | React Native · TypeScript |
 | 🃏 [UNO 1v1](https://github.com/ateetgogineni/uno-game) | 1v1 card game for Android with WebSocket matchmaking and a bot fallback | Unity 6 · C# |
 | 🦋 [Glowmoth](https://github.com/ateetgogineni/glowmoth) | Level-based 2D puzzle: tap a lamp and the moth follows the light it can see | Unity · C# |
-| 🔤 [Regional Language Render Plugin](https://github.com/ateetgogineni/Unity-Regional-Language-Render-Plugin) | Renders regional and international scripts correctly in Unity apps on Android and iOS | Unity · C# · native plugins |
+| 🏹 [Ramayanam Story Game](https://github.com/ateetgogineni/ramayanam-game) | Choice-driven story game in English and Telugu: your choices decide who trusts you | HTML · CSS · JavaScript |
+| 📡 [Network Dashboard](https://github.com/ateetgogineni/Network-Dashboard) | Local network dashboard: live device discovery, internet speed gauge and per-device traffic view | JavaScript · PowerShell |
 
 ## 🎮 Shipped at work
 
