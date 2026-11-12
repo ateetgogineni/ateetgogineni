@@ -15,13 +15,13 @@
 ```csharp
 public class VenkataAteet : SoftwareEngineer
 {
-    public string   Role     => "C# Software Engineer @ PurpleTalk";
-    public string   Years    => "4+ (full-time since 2022)";
-    public string[] Ships    => new[] { "Unity games", "React Native apps", "AI dashboards" };
-    public string[] AiTools  => new[] { "Claude Code", "OpenAI Codex", "Google Antigravity" };
-    public string[] Learning => new[] { "ASP.NET Core Web API", "EF Core", "SQL Server" };
+    string   Role     = "C# Engineer @ PurpleTalk";
+    string   Years    = "4+ (since 2022)";
+    string[] Ships    = { "Unity games", "React Native apps" };
+    string[] AiTools  = { "Claude Code", "Codex", "Antigravity" };
+    string[] Learning = { "ASP.NET Core", "EF Core", "SQL Server" };
 
-    public void Work() => Agents.Orchestrate(projects: "several, in parallel");
+    void Work() => Agents.Orchestrate("projects, in parallel");
 }
 ```
 
