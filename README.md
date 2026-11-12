@@ -62,10 +62,4 @@ Built end to end at PurpleTalk for YesGnome — core gameplay, meta-game layer a
 
 Earlier: Clash, GamePe, Slot Stream, Rummy, Blackjack, Big Brother: The Game, Bigg Boss: The Game.
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ateetgogineni&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:22d3ee&height=110&section=footer" width="100%"/>
